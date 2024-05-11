@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `gat_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/koki-develop/gat.git (revision: `bc64673078c68cd0018be30601a9147825461120`)
+* git repository: https://github.com/koki-develop/gat.git (revision: `b1942ac430d3530215ca93fce0abad3970b469d0`)
 
 ## Platforms
 
